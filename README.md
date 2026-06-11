@@ -156,7 +156,8 @@ http://127.0.0.1:8000/docs
 
 **Vivek Phad**
 
-Electronics & Telecommunication Engineer
+Electronics & Telecommunication Student
+
 Python | FastAPI | SQL | Backend Development
 
 GitHub: https://github.com/codervivek09
